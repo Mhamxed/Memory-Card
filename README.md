@@ -1,1 +1,1 @@
-# Memory-Card
+Create a memory card game using react.js, HTML, javascript and CSS for styling.
