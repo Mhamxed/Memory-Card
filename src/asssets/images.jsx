@@ -10,6 +10,9 @@ import Mikasa from './img/mikasa.jpg'
 import Tanjiro from './img/tanjiro.jpg'
 import Vegeta from './img/vegeta.jpg'
 import Yoda from './img/Yoda.jpg'
+import ashKetchum from './img/AshKetchum.jpg'
+import Gaara from './img/Gaara.jpg'
+
 const Characters = [
     {
         id: 0,
@@ -81,6 +84,18 @@ const Characters = [
         id: 11,
         img: Yoda,
         name: "Yoda",
+        isClicked: false
+    },
+    {
+        id: 12,
+        img: ashKetchum,
+        name: "Ash Ketchum",
+        isClicked: false
+    },
+    {
+        id: 13,
+        img: Gaara,
+        name: "Gaara",
         isClicked: false
     }
 ]
