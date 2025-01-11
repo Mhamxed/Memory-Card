@@ -71,7 +71,6 @@ header img {
   background-color: #a3a3a3;
   border-radius: 5px;
   gap: 1rem;
-  scale: 1;
 
   position: fixed;
   top: 50%;
@@ -91,5 +90,5 @@ button {
 }
 
 .blur {
-  filter: blur(4px);
+  filter: blur(6px);
 }
